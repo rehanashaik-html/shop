@@ -1,0 +1,125 @@
+.container{
+    border:solid black 3px;
+}
+header,footer{
+    height:300px;
+    background-color:rosybrown ;
+    text-align: center;
+    line-height:300px ;
+    font-size: 90px;
+}
+nav{
+    height:40px;
+     
+    background-color:rosybrown ;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li{
+    height:20px; ;
+    width: 80px;
+    text-align: center; 
+    border-radius: 8px;
+    margin: 10px;
+}
+li:hover{
+    background-color: darksalmon;
+} 
+#box1{
+    height: 80px;
+background-color: pink;
+border: solid plum 3px;
+}
+#box2{
+    height: 80px;
+    background-color: pink;
+    border: solid plum 3px;
+}
+#box4{
+height: 80px;
+background-color: pink;
+border: solid plum 3px;
+}
+.box{
+    display: flex;
+}
+li:hover{
+    background-color: darksalmon;
+} 
+#box1{
+    height: 120px;
+background-color: pink;
+border: solid plum 3px;
+}
+#box2{
+    height: 120px;
+    background-color: pink;
+    border: solid plum 3px;
+}
+
+
+.ssnl{
+     display: flex; 
+}
+#one{
+    margin: 50px 30px 40px 50px;
+}
+#two{ margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 50px;
+}
+    
+#three{  
+    margin-top:40px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+#four{
+    margin-top: 60px; 
+    margin-right:80px;
+    margin-left:80px;
+}
+
+.con2{ 
+display: flex;
+
+}
+
+#ol{
+margin: 50px 30px 40px 50px;
+}
+#ou{
+margin:50px 30px 40px 50px ;
+}
+#oi{
+    margin:50px 30px 40px 50px;
+
+}
+#e2{
+    margin:50px 30px 40px 50px;
+
+}
+.ew1{
+    display:flex;
+}
+.offer{
+    background-color:rgba(214, 129, 18, 0.432);
+    margin-top: 80px;
+    padding: 30px 0;
+    padding-left: 30px;
+ 
+}
+.accountpage{
+    box-shadow: 0 0 20px 0;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
